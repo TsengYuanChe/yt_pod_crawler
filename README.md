@@ -14,7 +14,7 @@
 
 # Podcast Data Integration and Summarization
 
-本部分程式針對 Podcast RSS Feed 進行處理，包括過濾指定日期的節目，下載音檔並生成摘要。
+本部分程式([podcast.py](./yt_pod資料整合fin/podcast.py))針對 Podcast RSS Feed 進行處理，包括過濾指定日期的節目，下載音檔並生成摘要。
 
 ## 功能說明
 
