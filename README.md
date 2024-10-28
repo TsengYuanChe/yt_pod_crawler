@@ -47,7 +47,7 @@
 
 ## 環境需求
 
-請參考: [requirements.txt](./requirements.txt)
+請參考 : [requirements.txt](./requirements.txt)
 
 ## 注意事項
 
