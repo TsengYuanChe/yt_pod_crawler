@@ -1,6 +1,6 @@
 # YouTube Channel Data Integration and Summarization
 
-本部分程式主要用於抓取 YouTube 頻道內容，並進行音頻下載和文字轉錄，以結構化的方式儲存成為摘要，便於進一步分析。
+本部分([yt.py](./yt_pod資料整合fin/yt.py))程式主要用於抓取 YouTube 頻道內容，並進行音頻下載和文字轉錄，以結構化的方式儲存成為摘要，便於進一步分析。
 
 ## 功能說明
 
