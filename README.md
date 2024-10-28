@@ -52,7 +52,7 @@
 ## 注意事項
 
 - 該程式需用到 OpenAI 的 `whisper` 和 GPT-3.5 模型。
-- 請確保 API 金鑰的正確性並檢查網路連接。
+- 需自行申請 OpenAI API 金鑰和 Google API 金鑰。
 
 ## 授權
 
